@@ -1,0 +1,1 @@
+cmd_/home/pi/Desktop/dht12-master/dht12_drv.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/pi/Desktop/dht12-master/dht12_drv.ko /home/pi/Desktop/dht12-master/dht12_drv.o /home/pi/Desktop/dht12-master/dht12_drv.mod.o ;  true
